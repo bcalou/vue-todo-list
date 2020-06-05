@@ -10,7 +10,7 @@
 
 <script lang="ts">
 import Vue from 'vue';
-import TodoList from '@/components/TodoList.vue';
+import TodoList from '@/components/TodoList/TodoList.vue';
 
 export default Vue.extend({
   name: 'home',
